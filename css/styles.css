@@ -525,10 +525,6 @@ img {
   margin-right: 80px;
 }
 
-/* .subscribe{
-
-} */
-
 
 /* MODAL */
 
@@ -704,7 +700,6 @@ img {
   border-radius: 2px;
   content: "";
   cursor: pointer;
-
 }
 
 .modal-form-check:checked+.modal-form-check-desc::before {
@@ -773,7 +768,6 @@ img {
 .modal-form-submit:focus {
   background-color: var(--button-hover-color);
 }
-
 
 /* Portfolio  */
 
